@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shreyansh 👋
 
-<!--
-**Shreyansh-awasthi/Shreyansh-Awasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Scientist  
+🧠 Building Machine Learning & AI Projects  
+🔥 Focused on Fraud Detection, Churn Prediction & Explainable AI
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+Python • Pandas • NumPy • Scikit-learn • XGBoost • Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Shreyansh-awasthi&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Shreyansh-awasthi&theme=tokyonight)
+
+## 🚀 Current Goal
+Become a top-tier Data Scientist by building real-world AI systems.
