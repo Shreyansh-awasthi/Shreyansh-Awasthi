@@ -2,7 +2,7 @@
 
 🚀 Aspiring Data Scientist  
 🧠 Building Machine Learning & AI Projects  
-🔥 Focused on Fraud Detection, Churn Prediction & Explainable AI
+🔥 Focused on Machine Learning , Explainable AI,Real-World AI systems
 
 ## 🛠 Tech Stack
 Python • Pandas • NumPy • Scikit-learn • XGBoost • Streamlit
