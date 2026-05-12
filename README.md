@@ -12,7 +12,7 @@
 
 ## About Me
 
-Building end-to-end AI systems focused on real-world problem solving, explainability, and deployment.
+Building end-to-end real-World Machine Learning Projects focused on  problem solving, explainability, and deployment.
 
 - Focused on Machine Learning, Explainable AI, NLP & End-to-End AI Systems  
 - Building production-style ML projects with clean documentation and deployment  
