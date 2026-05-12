@@ -5,7 +5,7 @@
 🔥 Focused on Machine Learning , Explainable AI,Real-World AI systems
 
 ## 🛠 Tech Stack
-Python • Pandas • NumPy • Scikit-learn • XGBoost • Streamlit
+Python • Pandas • NumPy • Scikit-learn • XGBoost • Streamlit 
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Shreyansh-awasthi&show_icons=true&theme=tokyonight)
