@@ -4,7 +4,7 @@
 
 ### Machine Learning • AI • Explainable AI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Building+End-to-End+ML+Projects;Machine+Learning;NLP;RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Building+End-to-End+ML+Projects;Machine+Learning+%7C+NLP+%7C+RAG)](https://git.io/typing-svg)
 
 </div>
 
