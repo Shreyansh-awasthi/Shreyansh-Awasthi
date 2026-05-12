@@ -64,8 +64,3 @@ Real-time fraud detection system built on a large-scale transaction dataset.
 </div>
 
 ---
-
-## Current Focus
-
-```text
-Machine Learning → Deep Learning → NLP → RAG → MLOps
