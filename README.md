@@ -2,9 +2,9 @@
 
 # Shreyansh Awasthi
 
-### Machine Learning • AI Systems • Explainable AI
+### Machine Learning • AI • Explainable AI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Building+End-to-End+AI+Systems;Machine+Learning+%7C+NLP+%7C+MLOps;Focused+on+Real-World+Problem+Solving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Building+End-to-End+ML+Projects;Machine+Learning;NLP;RAG)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## About Me
 
-Building end-to-end real-World Machine Learning Projects focused on  problem solving, explainability, and deployment.
+Building real-world Machine Learning projects focused on deployment, explainability, and problem solving.
 
-- Focused on Machine Learning, Explainable AI, NLP & End-to-End AI Systems  
+- Focused on Machine Learning, Explainable AI, NLP, and RAG  
 - Building production-style ML projects with clean documentation and deployment  
 - Learning deeply, shipping consistently, improving every week  
 
@@ -68,4 +68,4 @@ Real-time fraud detection system built on a large-scale transaction dataset.
 ## Current Focus
 
 ```text
-Machine Learning → Deep Learning → NLP → MLOps → Real-World AI Systems
+Machine Learning → Deep Learning → NLP → RAG → MLOps
