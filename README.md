@@ -16,7 +16,7 @@ Building real-world Machine Learning projects focused on deployment, explainabil
 
 - Focused on Machine Learning, Explainable AI, NLP, and RAG  
 - Building production-style ML projects with clean documentation and deployment  
-- Learning deeply, shipping consistently, improving every week  
+- Learning deeply, shipping consistently, improving every week
 
 ---
 
