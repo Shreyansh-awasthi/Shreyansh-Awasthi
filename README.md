@@ -42,7 +42,7 @@ Real-time fraud detection system built on a large-scale transaction dataset.
 - Precision-Recall focused threshold tuning  
 - Explainable AI layer for prediction reasoning  
 - Streamlit deployment  
-- Production-oriented ML workflow  
+- Production-oriented ML workflow
 
 ---
 
