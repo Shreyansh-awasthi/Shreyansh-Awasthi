@@ -13,7 +13,7 @@
 
 Building real-world Machine Learning projects focused on deployment, explainability, and problem solving.
 
-- Focused on Machine Learning, Explainable AI, NLP, and RAG  
+- Focused on Machine Learning, Explainable AI, NLP,RAG and AI AGENTS. 
 - Building production-style ML projects with clean documentation and deployment  
 - Interested in building scalable ML systems with deployment and explainability
 
